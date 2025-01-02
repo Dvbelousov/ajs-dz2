@@ -10,10 +10,10 @@ export default class Game {
 export class GameSavingData {
 }
   
-function readGameSaving() {
+export function readGameSaving() {
 }
   
-function writeGameSaving() {
+export function writeGameSaving() {
 }
 
 // const defaultGame = new Game();
